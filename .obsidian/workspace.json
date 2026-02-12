@@ -45,8 +45,7 @@
               "title": "Release Notes 1.11.7"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +207,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "c635f6992e650dbf",
+  "active": "36573259fa628353",
   "lastOpenFiles": [
     "docs/index.md"
   ]
