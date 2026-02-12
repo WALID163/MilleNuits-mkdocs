@@ -22,30 +22,17 @@
             }
           },
           {
-            "id": "36a87c3dd78a8574",
+            "id": "cf7569a13b15ec3a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "site/img/grid.png"
-              },
-              "icon": "lucide-image",
-              "title": "grid"
-            }
-          },
-          {
-            "id": "c635f6992e650dbf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,11 +191,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "36573259fa628353",
+  "active": "cf7569a13b15ec3a",
   "lastOpenFiles": [
-    "docs/index.md"
+    "MilleNuits/site/webfonts/fa-v4compatibility.woff2",
+    "MilleNuits/site/webfonts/fa-v4compatibility.ttf",
+    "MilleNuits/site/webfonts/fa-solid-900.woff2",
+    "MilleNuits/site/webfonts/fa-solid-900.ttf",
+    "MilleNuits/site/webfonts/fa-regular-400.woff2",
+    "MilleNuits/site/webfonts/fa-regular-400.ttf",
+    "MilleNuits/site/webfonts/fa-brands-400.woff2",
+    "MilleNuits/site/webfonts/fa-brands-400.ttf",
+    "MilleNuits/site/search/worker.js",
+    "MilleNuits/site/search/search_index.json",
+    "MilleNuits/site/search/main.js",
+    "MilleNuits/site/img/grid.png",
+    "MilleNuits/docs/index.md",
+    "docs/index.md",
+    "site/img/grid.png",
+    "Untitled.canvas",
+    "2026-02-12.md"
   ]
 }
