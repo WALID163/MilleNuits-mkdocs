@@ -1,0 +1,27 @@
+name: Deploy MkDocs (gh-deploy)
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write   # important pour pousser sur gh-pages
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: 3.x
+
+      - name: Install MkDocs
+        run: |
+          pip install mkdocs mkdocs-material
+
+      - name: Deploy
+        run: mkdocs gh-deploy --force
