@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "36a87c3dd78a8574",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "site/img/grid.png"
+              },
+              "icon": "lucide-image",
+              "title": "grid"
+            }
+          },
+          {
+            "id": "c635f6992e650dbf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -41,7 +66,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "site/img/grid.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for grid"
             }
           },
           {
@@ -113,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "site/img/grid.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from grid"
             }
           },
           {
@@ -156,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md",
+                "file": "site/img/grid.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of grid"
             }
           }
         ]
@@ -183,6 +208,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "36573259fa628353",
-  "lastOpenFiles": []
+  "active": "c635f6992e650dbf",
+  "lastOpenFiles": [
+    "docs/index.md"
+  ]
 }
