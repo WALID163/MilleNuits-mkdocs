@@ -4,3 +4,4 @@ theme:
   name: material
 nav:
   - Home: index.md
+  - Doc: crys.md
