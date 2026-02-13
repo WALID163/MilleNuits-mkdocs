@@ -31,8 +31,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf7569a13b15ec3a",
+  "active": "5897387493c6ab10",
   "lastOpenFiles": [
+    "Auto",
     "MilleNuits/site/webfonts/fa-v4compatibility.woff2",
     "MilleNuits/site/webfonts/fa-v4compatibility.ttf",
     "MilleNuits/site/webfonts/fa-solid-900.woff2",
@@ -207,7 +207,6 @@
     "MilleNuits/site/webfonts/fa-brands-400.ttf",
     "MilleNuits/site/search/worker.js",
     "MilleNuits/site/search/search_index.json",
-    "MilleNuits/site/search/main.js",
     "MilleNuits/site/img/grid.png",
     "MilleNuits/docs/index.md",
     "docs/index.md",
