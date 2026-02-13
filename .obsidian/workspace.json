@@ -22,16 +22,21 @@
             }
           },
           {
-            "id": "cf7569a13b15ec3a",
+            "id": "b22f8c58ed4831c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/crys.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "crys"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,6 +201,9 @@
   },
   "active": "5897387493c6ab10",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/crys.md",
+    "site/img/grid.png",
     "Auto",
     "MilleNuits/site/webfonts/fa-v4compatibility.woff2",
     "MilleNuits/site/webfonts/fa-v4compatibility.ttf",
@@ -206,11 +214,8 @@
     "MilleNuits/site/webfonts/fa-brands-400.woff2",
     "MilleNuits/site/webfonts/fa-brands-400.ttf",
     "MilleNuits/site/search/worker.js",
-    "MilleNuits/site/search/search_index.json",
     "MilleNuits/site/img/grid.png",
     "MilleNuits/docs/index.md",
-    "docs/index.md",
-    "site/img/grid.png",
     "Untitled.canvas",
     "2026-02-12.md"
   ]
