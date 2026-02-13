@@ -1,6 +1,6 @@
 Author: Walix
 site_name: Mille Nuits
 theme:
-  name: mkdocs
+  name: material
 nav:
   - Home: index.md
