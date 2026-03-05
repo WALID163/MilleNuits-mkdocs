@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/crys.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "crys"
             }
           }
         ],
@@ -201,8 +201,8 @@
   },
   "active": "b22f8c58ed4831c0",
   "lastOpenFiles": [
-    "docs/crys.md",
     "docs/index.md",
+    "docs/crys.md",
     "site/img/grid.png",
     "Auto",
     "MilleNuits/site/webfonts/fa-v4compatibility.woff2",
