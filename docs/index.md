@@ -138,5 +138,3 @@ Dans ce guide, nous utilisons **Obsidian**.
   * Installation : **Télécharger Obsidian sur internet. 
   * Utilisation :**Vous pouvez ouvrir votre dossier de projet (le repo) en tant que "coffre" (vault) pour éditer directement vos fichiers `.md`. 
 -----
-
-Souhaitez-vous que je vous aide à rédiger le contenu du fichier `index.md` pour votre projet ?
