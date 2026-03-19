@@ -3,5 +3,5 @@ site_name: Mille Nuits
 theme:
   name: material
 nav:
-  - Home: index.md
+  - Mission-1-Création d’une documentation avec MkDocs et GitHub Pages: index.md
   - Doc: crys.md
