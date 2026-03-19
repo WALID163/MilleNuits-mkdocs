@@ -4,5 +4,4 @@ theme:
   name: material
 nav:
   - Mission-1-Création d’une documentation avec MkDocs et GitHub Pages: index.md
-  - SP1: 
-    SP1/Mission 1: Mission_1_Maquettage_infrastructure_reseau.md
+  - SP1: Mission_1_Maquettage_infrastructure_reseau.md
