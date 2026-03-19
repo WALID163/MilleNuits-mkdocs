@@ -3,7 +3,7 @@
 # Mission 1 : Création d’une documentation avec MkDocs et GitHub Pages
 
 **Auteur :** Walid
-**Projet :** Mille nuits
+**Projet :** Mille nuits 
 
 -----
 
