@@ -3,5 +3,8 @@ site_name: Mille Nuits
 theme:
   name: material
 nav:
-  - Mission-1-Création d’une documentation avec MkDocs et GitHub Pages: index.md
-  - SP1: Mission_1_Maquettage_infrastructure_reseau.md
+  - SP1: 
+    -Mision1: SP1/Mission_1_Maquettage_infrastructure_reseau.md
+  -SP2: 
+    - Mission 1 Création d’une documentation avec MkDocs et GitHub Pages: SP2/index.md
+  
