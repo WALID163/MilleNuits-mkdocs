@@ -1,5 +1,3 @@
-Voici une transformation du document en format Markdown structuré, basée sur les informations fournies.
-
 -----
 
 # Mission 1 : Création d’une documentation avec MkDocs et GitHub Pages
@@ -87,7 +85,7 @@ nav:
 2.  Définir la visibilité sur **Public**. 
 3.  Envoyer (Push) les fichiers du projet MkDocs (via Git ou GitHub Desktop). 
 
-Commandes Git :** 
+Commandes Git : 
 
 ```bash
 git init 
