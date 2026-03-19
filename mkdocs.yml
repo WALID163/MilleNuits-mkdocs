@@ -5,6 +5,6 @@ theme:
 nav:
   - SP1: 
     -Mision1: Mission_1_Maquettage_infrastructure_reseau.md
-  -SP2: 
+  - SP2: 
     - Mission 1 Création d’une documentation avec MkDocs et GitHub Pages: index.md
   
