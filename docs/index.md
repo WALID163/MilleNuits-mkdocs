@@ -2,9 +2,8 @@
 
 # Mission 1 : Création d’une documentation avec MkDocs et GitHub Pages
 
-**Auteur :** Walid JOUAL
+**Auteur :** Walid
 **Projet :** Mille nuits
-**Classe :** 801
 
 -----
 
