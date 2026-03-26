@@ -1,4 +1,4 @@
-# MILLENUITS SP2 – Mission 3 : Recherche et mise en place d'un outil de déploiement des postes
+# SP2 – Mission 3 : Recherche et mise en place d'un outil de déploiement des postes
 
 **Boisseau Crys — 801**  
 *Mille Nuits*
