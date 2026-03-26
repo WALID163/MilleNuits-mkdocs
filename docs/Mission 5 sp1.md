@@ -1,4 +1,4 @@
-# Mission 5 - Fiche recette pour GLPI
+# SP1 – Mission 5 : Fiche recette pour GLPI
 
 **Boisseau Crys — 801 — 06/11/2025**  
 *Lycée Paul-Louis Courier — Le lycée de tous les parcours*
