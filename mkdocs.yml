@@ -4,7 +4,8 @@ theme:
   name: material
 nav:
   - SP1: 
-    - Mission 1 Maquettage infrastructure reseau: Mission_1_Maquettage_infrastructure_reseau.md
+    - Mission 1 Maquettage infrastructure reseau: Mission 1 sp1.md
+    - Mission 1 Fiche recette maquette infrastructure reseau: Mission1.1 sp1.md
     - Mission 2 Infrastructure reseau commandes: Mission 2 sp1.md
     - Mission 3: Mission 3 sp1.md
     - Mission 4 Choix outil tickets: Mission 4 sp1.md
