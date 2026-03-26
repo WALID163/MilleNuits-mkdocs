@@ -24,7 +24,7 @@
 
 ### Configuration d'un VLAN
 
-```cisco
+```
 switch> en
 switch# config t
 switch(config)# vlan X
