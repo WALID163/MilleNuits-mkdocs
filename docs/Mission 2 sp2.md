@@ -1,4 +1,4 @@
-# MILLENUITS SP2 – Mission 2 : Installation nouveaux postes clients
+# SP2 – Mission 2 : Installation nouveaux postes clients
 
 **Boisseau Crys — 801**  
 *Mille Nuits*
