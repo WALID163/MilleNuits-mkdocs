@@ -1,6 +1,6 @@
 -----
 
-# Mission 1 : Création d’une documentation avec MkDocs et GitHub Pages
+# SP2 – Mission 1 : Création d’une documentation avec MkDocs et GitHub Pages
 
 **Auteur :** Walid
 **Projet :** Mille nuits
