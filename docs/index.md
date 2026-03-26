@@ -2,9 +2,8 @@
 
 # Mission 1 : Création d’une documentation avec MkDocs et GitHub Pages
 
-**Auteur :** Walid JOUAL
+**Auteur :** Walid
 **Projet :** Mille nuits
-**Classe :** 801
 
 -----
 
@@ -136,6 +135,6 @@ jobs:
 Il est nécessaire d'utiliser un éditeur pour rédiger vos fichiers Markdown. 
 Dans ce guide, nous utilisons **Obsidian**. 
 
-  * Installation : **Télécharger Obsidian sur internet. 
-  * Utilisation :**Vous pouvez ouvrir votre dossier de projet (le repo) en tant que "coffre" (vault) pour éditer directement vos fichiers `.md`. 
+  * Installation : Télécharger Obsidian sur internet. 
+  * Utilisation : Vous pouvez ouvrir votre dossier de projet (le repo) en tant que "coffre" (vault) pour éditer directement vos fichiers `.md`. 
 -----
