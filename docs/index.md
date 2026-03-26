@@ -1,5 +1,3 @@
-Voici une transformation du document en format Markdown structuré, basée sur les informations fournies.
-
 -----
 
 # Mission 1 : Création d’une documentation avec MkDocs et GitHub Pages
@@ -31,14 +29,14 @@ Voici une transformation du document en format Markdown structuré, basée sur l
 Dans l'invite de commande, exécutez les commandes suivantes pour installer MkDocs et le thème Material :
 
 ```bash
-[cite_start]pip install mkdocs 
-[cite_start]pip install mkdocs-material
+pip install mkdocs 
+pip install mkdocs-material
 ```
 
 Une fois l'installation terminée, vous pouvez vérifier la version avec :
 
 ```bash
-[cite_start]mkdocs --version 
+mkdocs --version 
 ```
 
 -----
@@ -141,5 +139,3 @@ Dans ce guide, nous utilisons **Obsidian**.
   * Installation : **Télécharger Obsidian sur internet. 
   * Utilisation :**Vous pouvez ouvrir votre dossier de projet (le repo) en tant que "coffre" (vault) pour éditer directement vos fichiers `.md`. 
 -----
-
-Souhaitez-vous que je vous aide à rédiger le contenu du fichier `index.md` pour votre projet ?
