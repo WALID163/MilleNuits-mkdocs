@@ -1,10 +1,11 @@
+----
 # Mise en place du serveur DHCP sous Linux
 
 Ce guide détaille les étapes pour installer et configurer un serveur DHCP à l'aide du paquet **ISC DHCP** sur une machine virtuelle (Debian, Ubuntu...).
 
 **Auteur:** Walid
 **Projet:** Mille nuits
----
+----
 
 ## 1. Prérequis
 * Disposer d'une machine virtuelle Linux.
