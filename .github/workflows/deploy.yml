@@ -6,7 +6,11 @@ on:
       - main
 
 permissions:
-  contents: write   # important pour pousser sur gh-pages
+  contents: write
+
+concurrency:
+  group: deployment
+  cancel-in-progress: true
 
 jobs:
   deploy:
