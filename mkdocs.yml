@@ -5,8 +5,11 @@ theme:
 nav:
   - SP0:
     - Mission 1:
+      - Mission 1: Mission
     - Mission 2:
+      - Mission 1: Mission
     - Mission 3:
+      - Mission 1: Mission
     - Mission 4:
       - 01 Mission 4 Choix outil tickets: Mission 4 sp1.md
     - Mission 5:
@@ -33,4 +36,4 @@ nav:
       - 02 Mission 1 Fiche recette Windows Server: Mission 1.1 sp3.md
       - 03 Mission 1 Fiche recette maquette DNS: Mission 1.2 sp3.md
     - Mission 2 Mise en place du serveur DHCP sous Linux:
-      - Mission 2 Mise en place du serveur DHCP sous Linux: Mission 2 sp3.md
+      - 01 Mission 2 Mise en place du serveur DHCP sous Linux: Mission 2 sp3.md
