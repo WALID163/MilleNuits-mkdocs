@@ -3,9 +3,15 @@
 
 Ce guide détaille les étapes pour installer et configurer un serveur DHCP à l'aide du paquet **ISC DHCP** sur une machine virtuelle (Debian, Ubuntu...).
 
-**Auteur:** Walid
-**Projet:** Mille nuits
+**Auteur :** Walid
+**Projet :** Mille nuits
 ----
+## Table des matières
+
+1.  [Prérequis](#prérequis)
+2.  [Installion du service](#installation-du-service)
+3.  [Configuration de l'interface réseau](#configuration-de-l'interface-réseau)
+4.  [Configuration des étendues](#configuration-des-étendues)
 
 ## 1. Prérequis
 * Disposer d'une machine virtuelle Linux.
