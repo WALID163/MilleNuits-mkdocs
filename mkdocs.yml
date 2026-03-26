@@ -26,5 +26,7 @@ nav:
   - SP3:
     - Mission 1:
       - Mission 1 Configuration Windows Server: Mission 1 sp3.md
+      - Mission 1 Fiche recette Windows Server: Mission1.1 sp3.md
+      - Mission 1 Fiche recette maquette DNS: Mission1.2 sp3.md
     - Mission 2:
       - Mission 2 Mise en place du serveur DHCP sous Linux: Mission 2 sp3.md
