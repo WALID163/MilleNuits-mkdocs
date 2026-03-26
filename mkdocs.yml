@@ -3,17 +3,7 @@ site_name: Mille Nuits
 theme:
   name: material
 nav:
-  - SP0:
-    - Mission 1:
-      - Mission 1: Mission
-    - Mission 2:
-      - Mission 1: Mission
-    - Mission 3:
-      - Mission 1: Mission
-    - Mission 4:
-      - 01 Mission 4 Choix outil tickets: Mission 4 sp1.md
-    - Mission 5:
-      - 01 Mission 5 Fiche recette GLPI: Mission 5 sp1.md
+  - Accueil : index.md
   - SP1 Gestion de l’infrastructure réseau: 
     - Mission 1 Définir un nouveau plan d’adressage:
       - 01 Mission 1 Maquettage infrastructure reseau: Mission 1 sp1.md
