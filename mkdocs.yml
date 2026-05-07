@@ -27,3 +27,11 @@ nav:
       - 03 Mission 1 Fiche recette maquette DNS: Mission 1.2 sp3.md
     - Mission 2 Mise en place du serveur DHCP sous Linux:
       - 01 Mission 2 Mise en place du serveur DHCP sous Linux: Mission 2 sp3.md
+    - SP3 Gestion des services principaux AD - DHCP:
+    - Mission 1 Mise en place du serveur Windows Server 2019:
+      - 01 Mission 1 Configuration Windows Server: Mission 1 sp3.md
+  - SP4 Mise en place d’un espace de développement:
+    - Mission 1 Mise en place d’un environnement de test conteneurisé dans une DMZ interne avec Docker et préparation d’une formation développeurs:
+      - 01 Mission 1 Mise en place d’un environnement de test conteneurisé: Mission 1 sp4.md
+    - Mission 2 Création d’un sous-réseau développeurs avec accès Wi-Fi sécurisé et mise en place d’un portail captif (optionnel, simplement pour les plus avancés):
+      - 01 Mission 2 Création d’un sous-réseau développeurs avec accès Wi-Fi sécurisé: Mission 2 sp4.md
