@@ -25,12 +25,14 @@
             "id": "40721990ce0e8541",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Notes de version 1.12.7"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -199,6 +201,10 @@
   },
   "active": "40721990ce0e8541",
   "lastOpenFiles": [
+    "docs/Mission.md",
+    "docs/index.md",
+    "docs/Mission 2 sp4.md",
+    "docs/Mission 1 sp4.md",
     "conflict-files-obsidian-git.md",
     "docs/crys.md",
     "docs/Mission_1_Maquettage_infrastructure_reseau.md",
@@ -211,7 +217,6 @@
     "docs/Mission 2 sp2.md",
     "docs/Mission 2 sp1.md",
     "docs/Mission 1 sp3.md",
-    "docs/index.md",
     "README.md",
     "site/img/grid.png",
     "Auto",
