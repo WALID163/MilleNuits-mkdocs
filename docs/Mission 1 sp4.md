@@ -1,7 +1,8 @@
 # SP4 - Mission 1 : Mise en place d’unenvironnement de test conteneurisé
 
-**Auteur: BOISSEAU Crys**
+BOISSEAU Crys-801
 
+---
 ## 1. Installation de Docker et Docker Compose
   Avant toute installation, mettez à jour votre machine Linux (Debian ou Ubuntu):
 ```bash
