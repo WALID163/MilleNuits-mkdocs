@@ -25,14 +25,12 @@
             "id": "40721990ce0e8541",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/index.md",
-                "mode": "source",
-                "source": false
+                "file": "site/img/grid.png"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-image",
+              "title": "grid"
             }
           }
         ],
@@ -201,8 +199,8 @@
   },
   "active": "40721990ce0e8541",
   "lastOpenFiles": [
-    "docs/Mission.md",
     "docs/index.md",
+    "docs/Mission.md",
     "docs/Mission 2 sp4.md",
     "docs/Mission 1 sp4.md",
     "conflict-files-obsidian-git.md",
