@@ -2,11 +2,12 @@ site_name: Mille Nuits
 theme:
   name: material
 nav:
+  - Accueil : index.md
   - CUB:
     - Accueil : aproposCUB.md
     - Situation 1 Préparation de la maquette et premiers paramétrages du serveur Windows2025: CUB-BLOC2-Situation1-ServWindowsCore.md
   - Millenuits:
-    - Accueil : index.md
+    - Accueil : aproposMilleNuits.md
     - SP1 Gestion de l’infrastructure réseau: 
       - Mission 1 Définir un nouveau plan d’adressage:
         - 01 Mission 1 Maquettage infrastructure reseau: Mission 1 sp1.md
