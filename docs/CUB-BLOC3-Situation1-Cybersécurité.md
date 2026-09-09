@@ -104,20 +104,16 @@ Avec l'aide de ce tableau, il sera possible de segmenter le réseau local (VLSM)
 
 ## 5. Réaliser un schéma logique représentant votre nouvelle proposition. Ce schéma ne concerne uniquement que le site dont vous avez la charge.
 
-![Schéma Logique](./images/Schéma logique Barcelone CUB CB WJ.png)
+![Schéma Logique](./images/Schéma_logique_Barcelone_CUB_CB_WJ.png)
 
 ## 6. Réaliser le schéma physique de votre agence.
 
-*(Schéma à réaliser séparément — non présent dans le texte source.)*
+![Schéma Physique](./images/Schéma_Physique_Barcelone_CUB_CB_WJ.png)
 
 ## 7. Réaliser un plan d'affectation des port par VLAN pour les éléments actifs de votre agence.
 
-*(Plan à réaliser séparément — non présent dans le texte source.)*
+![Schéma Brassage](./images/cub-schema-brassage-gp2.png)
 
 ## 8. Réaliser une maquette de la nouvelle infrastructure du site à l'aide du logiciel Packet Tracer. Le pare-feu du site sera représenté par un routeur.
 
-*(Maquette à réaliser séparément — non présente dans le texte source.)*
-
----
-
-*ELEA Cybersécurité Situation 1.*
+ELEA Cybersécurité Situation 1.
