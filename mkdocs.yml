@@ -3,7 +3,7 @@ theme:
   name: material
 nav:
   - CUB:
-    - Accueil : indexCUB.md
+    - Accueil : CUB.md
     - Situation 1 Préparation de la maquette et premiers paramétrages du serveur Windows2025: CUB-BLOC2-Situation1-ServWindowsCore.md
   - Mille Nuits:
     - Accueil : indexMilleNuits.md
