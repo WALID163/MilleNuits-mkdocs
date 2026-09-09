@@ -108,7 +108,7 @@ Avec l'aide de ce tableau, il sera possible de segmenter le réseau local (VLSM)
 
 ## 6. Réaliser le schéma physique de votre agence.
 
-![Schéma Physique](../images/Schéma_Physique_Barcelone_CUB_CB_WJ.png)
+![Schéma Physique](../images/Schéma_physique_Barcelone_CUB_CB_WJ.png)
 
 ## 7. Réaliser un plan d'affectation des port par VLAN pour les éléments actifs de votre agence.
 
