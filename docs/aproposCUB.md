@@ -57,12 +57,3 @@ Le malware **Emotet** est un cheval de Troie qui se diffuse par mail (capacité 
 Emotet a touché un nombre important d'entreprises françaises en 2020, ce qui a conduit l'ANSSI à publier un bulletin d'alerte. Ainsi, le service RSSI de l'entreprise CUB envisage le remplacement des pare-feu stateful vieillissants PFSense par une solution de sécurité unifiée (UTM) de l'entreprise française Stormshield afin d'améliorer la gestion des menaces informatiques au sein de la société.
 
 Aujourd'hui, vous travaillez dans l'équipe SIP des différentes agences en tant que technicien systèmes et réseaux. Vous serez notamment en charge de la mise en œuvre d'un nouveau dispositif de sécurité dans chacune des agences nommé UTM (Unified Threat Management) émanant de la société française Stormshield spécialisée en sécurité des réseaux et des systèmes d'information. L'administration de cet équipement se fera exclusivement par le biais du réseau local de l'agence où vous avez été affecté.
-
-## 📄 Documentation associée
-
-L'architecture du réseau CUB est fournie dans la documentation ci-après :
-
-- **Document A** – Architecture simplifiée du réseau CUB
-- **Document B** – Plan d'adressage du réseau CUB
-- **Document C** – Schéma réseau physique du réseau CUB
-- **Document D** – Liste des serveurs présents sur le site du siège
