@@ -104,7 +104,7 @@ Avec l'aide de ce tableau, il sera possible de segmenter le réseau local (VLSM)
 
 ## 5. Réaliser un schéma logique représentant votre nouvelle proposition. Ce schéma ne concerne uniquement que le site dont vous avez la charge.
 
-![Schéma Logique](../images/Schéma_logique_Barcelone_CUB_CB_WJ.png)
+![Schéma Logique](https://github.com/WALID163/MilleNuits-mkdocs/blob/main/images/Sch%C3%A9ma_physique_Barcelone_CUB_CB_WJ.png)
 
 ## 6. Réaliser le schéma physique de votre agence.
 
